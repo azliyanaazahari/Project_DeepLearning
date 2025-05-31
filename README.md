@@ -1,6 +1,6 @@
-MCTA 4363 Deep Learning
-ReLU Rebels
-Group members
+# MCTA 4363 Deep Learning
+\ ReLU Rebels
+\ Group members
 | Name  | Matric Numbers |
 | ------------- | ------------- |
 | Azliyana Syahirah Binti Azahari  | 2210620 |
