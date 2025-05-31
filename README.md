@@ -6,4 +6,3 @@ Group members
 | Azliyana Syahirah Binti Azahari  | 2210620 |
 | Ain Maisara bt. Abdullah  | 2217856 |
 | Adlin Johana Binti Shahrul Nizam  | 2111324  |
-| ------------- | ------------- |
